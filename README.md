@@ -4,7 +4,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
 * [Contact](#contact)
 
 
@@ -13,13 +12,6 @@
 - The background revolves around minimizing credit loss for the lending company. By analyzing the historical loan data, the company can predict the likelihood of loan defaults. The project explores the application of EDA in understanding how different applicant and loan attributes impact the likelihood of default, enabling the company to make better, data-driven lending decisions.
 - The business problem is to identify risky loan applicants who are more likely to default. By doing so, the company can take preemptive actions such as rejecting loans, offering loans at higher interest rates, or reducing loan amounts for high-risk applicants, ultimately minimizing financial losses from loan defaults.
 - We are using existing loan dataset.
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
 
 ## Technologies Used
 - Python - 3.11
